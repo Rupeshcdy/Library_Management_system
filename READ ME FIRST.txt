@@ -1,0 +1,4 @@
+Thank you for downloading the source code!
+
+admin = rupesh
+passowrd = admin
